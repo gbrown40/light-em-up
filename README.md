@@ -1,1 +1,2 @@
 # light-em-up
+A game with a power source and a network of wires. Wires light up when directly or indirectly connected to the power source if in a certain range of the power source. As distance increases from the power source, connected wires get dimmer. The user can click on the wires to change their orientation. The goal of the game is to orient the wires in such a way that all wires are connected and all are within the range of power. Each generation of the game yields a random number and orientation of wires.
